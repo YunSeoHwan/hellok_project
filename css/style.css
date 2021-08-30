@@ -394,6 +394,7 @@ ul.costomer li a {
      background: #fff;
      width: 120px;
      height: 120px;
+     font-family: Poppins;
      border-radius: 77px;
      border: #41c365 solid 4px;
      align-items: center;
@@ -411,6 +412,7 @@ ul.costomer li a {
 
 .three_box .Soft-box h3 {
      padding: 20px 0px 20px 0px;
+     font-family: Poppins;
      font-size: 30px;
      line-height: 30px;
      color: #1f1716;
@@ -426,6 +428,7 @@ ul.costomer li a {
 
 .three_box .Soft-box p {
      font-size: 17px;
+     font-family: Poppins;
      line-height: 30px;
      color: #1f1716;
 }
