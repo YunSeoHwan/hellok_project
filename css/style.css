@@ -295,7 +295,7 @@ ul.costomer li a {
 }
 
 .header {
-     background: transparent;
+     background: #d5ede0;
      width: 100%;
      padding: 40px 40px 40px 40px;
 }
@@ -309,7 +309,7 @@ ul.costomer li a {
 }
 
 .banner_main {
-     background: transparent;
+     background: #d5ede0;
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 90px;
@@ -661,6 +661,9 @@ $grey: #999;
      }
 }
 
+.ask_image{
+  
+}
 
 /** end Asked section **/
 
