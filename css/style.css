@@ -554,7 +554,6 @@ ul.costomer li a {
      width: 50px;
      height: 50px;
      color: #3fbc61;
-     ff;
      display: inline-block;
      border-radius: 30px;
 }
@@ -627,7 +626,7 @@ ul.costomer li a {
      margin-bottom: 20px;
 }
 
-.slider a {
+.slider a{
      color: #272827;
      font-size: 17px;
      line-height: 20px;
