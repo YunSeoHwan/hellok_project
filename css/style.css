@@ -775,7 +775,14 @@ $grey: #999;
      transition: ease-in all 0.5s;
      color: #fff;
 }
-
+#box_ho img{
+    width: 18rem;
+    height: 18rem; 
+    border-radius: 15%;
+}
+#box_ho figure{
+    text-align: center;
+}
 
 /** end contact section **/
 
