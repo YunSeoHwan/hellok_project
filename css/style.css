@@ -545,17 +545,16 @@ ul.costomer li a {
 .item {
      text-align: center;
      background: #3fbc61;
+     background-image: url(images/hellok1.jpeg);
      border-radius: 20px;
      padding: 20px;
 }
 
-.item span {
-     background: #ddd;
-     width: 50px;
-     height: 50px;
-     color: #3fbc61;
-     display: inline-block;
-     border-radius: 30px;
+.img{
+     text-align: center;
+     background-image: url(images/hellok1.jpeg);
+     border-radius: 20px;
+     padding: 20px;
 }
 
 .item h3 {
