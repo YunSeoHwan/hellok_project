@@ -659,8 +659,8 @@ $grey: #999;
      }
 }
 
-.ask_img{
-  border-radius: 10%;
+.ask_img{ 
+  border-radius: 15%;
 }
 
 /** end Asked section **/
