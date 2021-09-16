@@ -660,7 +660,7 @@ $grey: #999;
 }
 
 .ask_img{ 
-  border-radius: 15%;
+  width:100%;
 }
 
 /** end Asked section **/
